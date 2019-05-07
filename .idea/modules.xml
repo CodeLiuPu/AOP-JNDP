@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloJNDP.iml" filepath="$PROJECT_DIR$/HelloJNDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOP-JNDP.iml" filepath="$PROJECT_DIR$/AOP-JNDP.iml" />
     </modules>
   </component>
 </project>
